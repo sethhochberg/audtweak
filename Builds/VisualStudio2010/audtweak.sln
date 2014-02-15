@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{CCB57B86-C45F-C691-01F9-6763D3981D27}") = "audtweak", "audtweak.vcxproj", "{5E4B1E17-9E69-7591-489B-5486D50CB97A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E4B1E17-9E69-7591-489B-5486D50CB97A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5E4B1E17-9E69-7591-489B-5486D50CB97A}.Debug|Win32.Build.0 = Debug|Win32
+		{5E4B1E17-9E69-7591-489B-5486D50CB97A}.Release|Win32.ActiveCfg = Release|Win32
+		{5E4B1E17-9E69-7591-489B-5486D50CB97A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
